@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjainta" alt="mjainta" /> </p>
 
-- 🔭 I’m currently working on [specend](https://github.com/mjainta/pizzaiolo-companion/)
+- 🔭 I’m currently working on [pizzaiolo-companion](https://github.com/mjainta/pizzaiolo-companion/)
 
 - 🌱 I’m currently learning **Flutter, Dart, k3s**
 
