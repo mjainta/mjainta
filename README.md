@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A keep on learning Software Quality Manager with experience as a Software Developer and DevOps Engineer.</h3>
+<h3 align="center">A keep on learning Senior Software Quality Manager with experience as a Software Developer and DevOps Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjainta" alt="mjainta" /> </p>
 
-- 🔭 I’m currently working on [specend](https://github.com/mjainta/specend/)
+- 🔭 I’m currently working on [specend](https://github.com/mjainta/pizzaiolo-companion/)
 
-- 🌱 I’m currently learning **TailwindCSS, GraphQL, Laravel**
+- 🌱 I’m currently learning **Flutter, Dart, k3s**
 
-- 👯 I’m looking to collaborate on **Quality and DevOps**
-
-- 🤝 I’m looking for help with [specend](https://github.com/mjainta/specend/)
+- 👯 I’m looking to collaborate on **Development and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mjainta](https://github.com/mjainta)
 
-- 💬 Ask me about **Quality management, DevOps, Jenkins**
+- 💬 Ask me about **Quality management, DevOps, Jenkins, Management**
 
 - ⚡ Fun fact: **Martial arts since 2011**
 
